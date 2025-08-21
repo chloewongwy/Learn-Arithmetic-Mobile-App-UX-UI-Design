@@ -62,7 +62,7 @@ Structured interviews were conducted with primary school children to evaluate:
 (Feel free to check out the "report" pdf for screenshots of the prototype.)
 
 ### Welcome & Login  
-![Welcome]<img width="432" height="590" alt="image" src="https://github.com/user-attachments/assets/87cc5321-f289-41f3-9657-bb15756f8a98" />
+#### Welcome <img width="432" height="590" alt="image" src="https://github.com/user-attachments/assets/87cc5321-f289-41f3-9657-bb15756f8a98" />
 ![SignUp]<img width="447" height="613" alt="image" src="https://github.com/user-attachments/assets/5936d121-8891-464b-8d8c-5d32012881fd" />
 ![Login]<img width="443" height="613" alt="image" src="https://github.com/user-attachments/assets/149559da-5970-4fa8-b076-856b0a5e9428" />
 
