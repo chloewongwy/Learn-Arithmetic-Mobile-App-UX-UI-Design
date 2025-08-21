@@ -64,16 +64,21 @@ Structured interviews were conducted with primary school children to evaluate:
 ### Welcome & Login  
 #### Welcome
 <img width="432" height="590" alt="image" src="https://github.com/user-attachments/assets/87cc5321-f289-41f3-9657-bb15756f8a98" />
-#### SignUp
+
+#### SignUp 
 <img width="447" height="613" alt="image" src="https://github.com/user-attachments/assets/5936d121-8891-464b-8d8c-5d32012881fd" />
-#### Login
+
+#### Login 
 <img width="443" height="613" alt="image" src="https://github.com/user-attachments/assets/149559da-5970-4fa8-b076-856b0a5e9428" />
+
 
 ### Child Game Flow
 #### Homepage
 <img width="445" height="618" alt="image" src="https://github.com/user-attachments/assets/14f91a70-4604-4a39-8a71-892616ae7389" />
+
 #### Game
 <img width="486" height="667" alt="image" src="https://github.com/user-attachments/assets/3729fb43-e07b-4ea8-8b9d-14cb612b13e5" />
+
 #### Progress
 <img width="467" height="642" alt="image" src="https://github.com/user-attachments/assets/5df265d7-4316-430a-bd6e-3b531345a56e" />
 
