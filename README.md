@@ -59,7 +59,7 @@ Structured interviews were conducted with primary school children to evaluate:
 - **Responsive feedback**: Color-coded answers, hover states, hints in division.  
 
 ## 📸 Screenshots  
-(Feel free to check out the "report" pdf for screenshots of the prototype.)
+*(Feel free to check out the "report" pdf for screenshots of the prototype.)*
 
 ### Welcome & Login  
 #### Welcome
